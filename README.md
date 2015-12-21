@@ -1,4 +1,4 @@
 # scalacoursera
-Coursera Scala course
 Scripts from Coursera Functional Programming Principles in Scala
-by Martin Odersky
+by Martin Odersky    
+https://class.coursera.org/progfun-005
